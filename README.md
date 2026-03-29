@@ -37,3 +37,18 @@ A sophisticated implementation of a multi-layer Neural Network (Feed-Forward) ar
 ## 📊 GitHub Stats
 ![Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenriqueBertti&show_icons=true&theme=tokyonight&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueBertti&layout=compact&theme=tokyonight)
+
+Other Future Projects:
+## 🎓 Upcoming Scientific Research (Starting August 2026)
+**Mackenzie Presbyterian University | Undergraduate Researcher**
+
+### [Global Market Risk: Comparative VaR Modeling via GARCH-EVT-Copula Approach](https://github.com/HenriqueBertti)
+*Exploring the resilience of non-Gaussian statistical frameworks across global equity markets.*
+
+*   **Objective:** Implementing an integrated framework to outperform traditional Gaussian Value-at-Risk (VaR) models, specifically addressing volatility clustering and heavy tail events.
+*   **Methodological Innovation:** Leveraging **Extreme Value Theory (EVT)** for tail risk, **GARCH** models for volatility clustering, and **Copulas** to capture non-linear dependencies in market stress.
+*   **Global Scope:** Systematic analysis of 20+ years of historical data (2005–2026) comparing developed markets (USA, Europe) vs. emerging markets (Brazil, China).
+*   **Validation:** Rigorous backtesting through **Kupiec (unconditional coverage)** and **Christoffersen (conditional coverage)** tests to ensure predictive stability[cite: 3].
+*   **Stack:** `Python`, `yfinance`, `Arch`, `Scipy`, `Pandas`, `Non-linear Optimization`.
+
+> *This research seeks to enhance capital allocation efficiency and reduce systemic risk for institutional asset managers by identifying more accurate risk metrics during global financial crises[cite: 3].*
