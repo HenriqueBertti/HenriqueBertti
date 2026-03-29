@@ -17,8 +17,7 @@ My work focuses on bridging the gap between economic theory, mathematical optimi
 
 ---
 
-## 🏆 Featured Project: Deep Learning from Scratch for Financial Classification
-
+## 🏆 Quantitative Model for Financial Market
 A sophisticated implementation of a multi-layer Neural Network (Feed-Forward) architecture, developed entirely from scratch using only NumPy. This project bypasses high-level frameworks like Keras or TensorFlow to demonstrate a deep, fundamental understanding of deep learning mathematics and its application to high-dimensional classification problems.
 
 ### 🔬 Technical Core:
